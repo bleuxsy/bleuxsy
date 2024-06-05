@@ -55,7 +55,7 @@
 > - 핵심 역할 : Front-end; 웹사이트 화면 구현
 >   
 > - Language : HTML,CSS, javascript
-> - [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bleuxsy/moso) [![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/fKin3hLmYPthN8SfqU83k6/%EC%8B%A0%EC%84%A0%EA%BD%83%EC%A7%91-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%AC%EC%84%B1?node-id=2-3&t=VnijZbn2H5TU58cu-1) [![Tistory](https://img.shields.io/badge/Tistory-FF0000?style=for-the-badge&logo=Tistory&logoColor=white)](https://howdy1227.tistory.com/5)
+> - [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bleuxsy/moso) [![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/DtxHuwebFosE7rc1a95rgf/osp-ui?node-id=60-5&t=n1f4tSBLu0s6ZZZt-1) [![Tistory](https://img.shields.io/badge/Tistory-FF0000?style=for-the-badge&logo=Tistory&logoColor=white)](https://howdy1227.tistory.com/5)
 
 
 <br />
@@ -123,7 +123,7 @@
 > - Language : python3
 > - Skill : Deep Learning 
 >
-> - [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bleuxsy/DL-project)
+> - [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bleuxsy/DL-project) [![Tistory](https://img.shields.io/badge/Tistory-FF0000?style=for-the-badge&logo=Tistory&logoColor=white)](https://howdy1227.tistory.com/58)
 
 <br />
 
@@ -163,7 +163,7 @@
 > - 핵심 역할 : 개발자 ; 생성형 AI 기술 분석 및  기술 구현 가능성 부문 담당
 > - Skill : Deap Learning
 >
-> -  [![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/team_invite/redeem/WAT0mBQ8PKvWMnVK3TnbHx) [![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/AI-7cf72344774e4f83bd3138d3668286ff?pvs=4)
+> -  [![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/rHMmDPvY1FFE3DsZdXL9Dd/%EC%8B%9C%EC%86%8C-PPT?node-id=0-1&t=n1f4tSBLu0s6ZZZt-1) [![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/AI-7cf72344774e4f83bd3138d3668286ff?pvs=4)
 
 
 
