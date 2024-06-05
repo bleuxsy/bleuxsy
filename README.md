@@ -42,7 +42,7 @@
 >
 > - Language : C#  
 > - Skill : Unity
-> - [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bleuxsy/Fresh-FlowerShop) [![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/DtxHuwebFosE7rc1a95rgf/osp-ui?node-id=60-5&t=WP4pBjShf8Q4rOLO-1) [![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/d8001ad85fa24a8dbb75e2d8b40dd58f?pvs=4) [![Tistory](https://img.shields.io/badge/Tistory-FF0000?style=for-the-badge&logo=Tistory&logoColor=white)](https://howdy1227.tistory.com/category/포트폴리오/게임%20개발%20프로젝트) 
+> - [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bleuxsy/Fresh-FlowerShop) [![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/fKin3hLmYPthN8SfqU83k6/%EC%8B%A0%EC%84%A0%EA%BD%83%EC%A7%91-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%AC%EC%84%B1?node-id=2-3&t=bR5zxexTLnbYHzzy-1) [![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/d8001ad85fa24a8dbb75e2d8b40dd58f?pvs=4) [![Tistory](https://img.shields.io/badge/Tistory-FF0000?style=for-the-badge&logo=Tistory&logoColor=white)](https://howdy1227.tistory.com/category/포트폴리오/게임%20개발%20프로젝트) 
 
 
 <br />
