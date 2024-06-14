@@ -14,17 +14,17 @@
     <td>
        <h3>🍓Name</h3>
        <p> 안녕하세요! 늘 도전하고 한단계 성장하고 싶은 <strong>라즈베리</strong>, 김 승 연 입니다.</p>
+      <h3>📄Education</h3>
+      <p>이화여자대학교 컴퓨터 공학과</p>
       <h3>🎂 Birth</h3>
       <p>2001.12.27</p>
       <h3>✉️ E-Mail</h3>
-      <p>
-       <a href="mailto:sungyeon1227@gmail.com">
+      <a href="mailto:sungyeon1227@gmail.com">
     <img src="https://img.shields.io/badge/sungyeon1227@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a><a href="mailto:howdy1227@ewhain.net">
     <img src="https://img.shields.io/badge/howdy1227@ewhain.net-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-      </p>
-      <h3>😺 GitHub</h3>
+  <h3>🔗 GitHub</h3>
       <a href="https://github.com/bleuxsy">
       <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
       </a>
