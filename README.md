@@ -2,6 +2,46 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=40&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20Seungyeon%20GitHub)
 
+
+
+# About Me
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/bleuxsy/bleuxsy/assets/100823803/f3744f10-d197-4e97-8212-31ada7bc47f5" alt="Profile Image" style="width:300px;"/>
+    </td>
+    <td>
+       <h3>🍓Name</h3>
+       <p> 안녕하세요! 늘 도전하고 한단계 성장하고 싶은 <strong>라즈베리</strong>, 김 승 연 입니다.</p>
+      <h3>🎂 Birth</h3>
+      <p>2001.12.27</p>
+      <h3>✉️ E-Mail</h3>
+      <p>
+       <a href="mailto:sungyeon1227@gmail.com">
+    <img src="https://img.shields.io/badge/sungyeon1227@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a><a href="mailto:howdy1227@ewhain.net">
+    <img src="https://img.shields.io/badge/howdy1227@ewhain.net-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+      </p>
+      <h3>😺 GitHub</h3>
+      <a href="https://github.com/bleuxsy">
+      <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+      </a>
+       <h3>📰 Tech Blog</h3>
+       <a href="https://howdy1227.tistory.com">
+       <img src="https://img.shields.io/badge/Tistory-FF0000?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
+       </a>
+       <h2>👨‍💻 About me</h2>
+      <ul>
+         <li>저는 문제 해결에 집중하며, 효율적인 소프트웨어를 개발하는 것을 목표로 하고 있습니다.</li>
+        <li> 개발자로 성장하면서도 협력과 소통을 통해 팀과 함께 성장하는 것을 중요하게 생각합니다.</li>
+        <li> 프로젝트를 진행하면서 함께 성장할 수 있는 팀의 일원이 되고 싶습니다.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ##
 <h3 align="center">✨ Tech Stack ✨</h3>
 
