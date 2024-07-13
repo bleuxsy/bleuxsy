@@ -6,7 +6,7 @@
 
 # About Me
 
-<table>
+<!--<table>
   <tr>
     <td>
       <img src="https://github.com/bleuxsy/bleuxsy/assets/100823803/f3744f10-d197-4e97-8212-31ada7bc47f5" alt="Profile Image" style="width:300px;"/>
@@ -40,9 +40,9 @@
       </ul>
     </td>
   </tr>
-</table>
+</table>-->
 
-##
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 
@@ -230,6 +230,9 @@
 <div align="center">
   <a href="mailto:sungyeon1227@gmail.com">
     <img src="https://img.shields.io/badge/sungyeon1227@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+  <a href="mailto:howdy1227@ewhain.net">
+    <img src="https://img.shields.io/badge/howdy1227@ewhain.net-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
    <a href="https://github.com/bleuxsy">
    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
