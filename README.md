@@ -213,7 +213,7 @@
 
 >FLO 앱 클론 코딩 _(UMC 개발 동아리 - 안드로이드 앱 개발)_
 >
-> - 개발기간 : 2024.04.01 - ing
+> - 개발기간 : 2024.04.01 - 07.01
 > - 핵심 역할 : 안드로이드 앱 개발
 > - Language : Kotlin, Java
 > - Skill : Android Studio
@@ -222,6 +222,17 @@
 
 <br />
 
+## 12. 🌳 Zero Plant
+> 제로 웨이스트 식물 온라인 판매 서비스 _(UNIS 창업 해커톤 )_
+>
+> - 개발기간 : 2024.07.17 - 2024.07.19
+> - 핵심 역할 : Front-end
+> - Language : HTML, CSS, Javascript
+>
+>
+> -  [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bleuxsy/zeroplant)
+
+<br />
 
 
 
