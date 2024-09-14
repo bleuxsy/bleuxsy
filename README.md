@@ -255,7 +255,7 @@
 > 
 >
 >
-> -  [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UMCreadme) [![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/DgprqiPwQzdRbpftE33ZIo/%EB%A6%AC%EB%93%9C%EB%AF%B8-project?node-id=0-1&t=sclVFHg5ppE5HneT-1) [![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/d8001ad85fa24a8dbb75e2d8b40dd58f?pvs=4)
+> -  [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UMCreadme) [![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/DgprqiPwQzdRbpftE33ZIo/%EB%A6%AC%EB%93%9C%EB%AF%B8-project?node-id=0-1&t=sclVFHg5ppE5HneT-1) [![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/50cafdf71b924e9da43145fc12327dd9?pvs=4)
 
 
 <br />
