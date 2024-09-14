@@ -234,7 +234,31 @@
 
 <br />
 
+## 13. 📝하루일기
+> 생성형 AI; 노인을 위한 자동일기 서비스 _(SeSAC 해커톤 본선)_
+>
+> - 개발기간 : 2024.07.22 - 2024.08.02
+> - 핵심 역할 : Front-end , 기획 , 디자인 
+> 
+>
+>
+> -  [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paprika-Gangster)
 
+<br />
+
+## 14. 📖READ ME 
+> 도파민 중독인 현대인들에게 맞춘 책을 더 쉽게 접근할 수 있도록 돕는 어플리케이션_(UMC 개발 동아리 방학 프로젝트  )_
+>
+> - 개발기간 : 2024.07.22 - ing
+> - 핵심 역할 : Front-end ,
+> - Language :Kotlin
+> 
+>
+>
+> - [[!GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)] (https://github.com/UMCreadme) [![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/DgprqiPwQzdRbpftE33ZIo/%EB%A6%AC%EB%93%9C%EB%AF%B8-project?node-id=0-1&t=sclVFHg5ppE5HneT-1) [![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/d8001ad85fa24a8dbb75e2d8b40dd58f?pvs=4)
+
+
+<br />
 
 
 <h3 align="center">📫 Contact 📫</h3>
