@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=40&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20Seungyeon%20GitHub)
 
 
-
 # About Me
 
 <!--<table>
@@ -44,6 +43,8 @@
 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=howdy1227"/>
+
 
 
 <div align="center">
