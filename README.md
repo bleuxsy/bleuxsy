@@ -32,7 +32,7 @@
         <li> 프로젝트를 진행하면서 함께 성장할 수 있는 팀의 일원이 되고 싶습니다.</li>
       </ul>
 </div>-->
-<div align='center'>
+<div>
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=howdy1227"/> <img src="http://mazandi.herokuapp.com/api?handle=howdy1227&theme=warm"/>
 </div>
 <h3 align="center">✨ Tech Stack ✨</h3>
