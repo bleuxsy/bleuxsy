@@ -60,11 +60,13 @@
 </div>
 </br>
 </br></br>
-
+<h3 align="center"></h3>
 <details>
-<summary>  Projects </summary>
 
-<h3 align="center">📝 Projects 📝</h3>
+
+<summary align="center"><h2>📝 Projects 📝</h2></summary>
+
+
 
 
 
