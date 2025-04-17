@@ -245,7 +245,7 @@
 ## 14. 📖READ ME (앱 출시 예정)
 >  현대인들에게 맞춘 책을 더 쉽게 접근할 수 있도록 돕는 어플리케이션_(UMC 개발 동아리 방학 프로젝트 - 🏆대상  )_
 >
-> - 개발기간 : 2024.07.22 - ing
+> - 개발기간 : 2024.07.22 - 2024.09.01
 > - 핵심 역할 : Front-end ,
 > - Language :Kotlin
 > 
@@ -253,12 +253,33 @@
 >
 > -  [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UMCreadme) [![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/DgprqiPwQzdRbpftE33ZIo/%EB%A6%AC%EB%93%9C%EB%AF%B8-project?node-id=0-1&t=sclVFHg5ppE5HneT-1) [![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/50cafdf71b924e9da43145fc12327dd9?pvs=4)
 
+## 15. 🐛Garden
+>  <Garden: 집중하기>는 단순한 디지털 디톡스 앱을 넘어, 사용자들이 더 나은 삶의 균형을 찾아갈 수 있도록 돕는 앱 
+>
+> - 개발기간 : 2024.12.22 - 2025.02.16
+> - 핵심 역할 : Front-end 
+> - Language : React, javascript
+> 
+>
+>
+> -  [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeit-garden/Garden-FE) [![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/JJBEDWYsWOEJ8EYjntj2EZ/Prototype?node-id=293-1428&t=HZnb9FqRrL5hISFV-1) [![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/Garden-16dc4522a6af809fa981f02e7137e101?pvs=4)
+
+## 16. 🥦WeFresh
+>  냉장고 속 식재료의 신선도와 소비기한을 관리하고 AI 기반 맞춤형 레시피를 추천해주는 플랫폼 WEFRESH
+>
+> - 개발기간 : 2024.09.22 - ing
+> - 핵심 역할 : Front-end, AI
+> - Language : React-native, Typescript, Python
+> 
+>
+>
+> -  [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2024EwhaCapstone/WEFRESH-FRONT) [![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/slides/ChFqpkJpuanP06V1JkIYnu/WEFRESH-발표자료?node-id=1-59&t=KKFhhO3XrIESjQWa-0) [![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/1106ed1f61438173b38ad4280ed6dac9?pvs=4)
 
 <br />
 </details>
 
 <h3 align="center">📫 Contact 📫</h3>
-<div align="center">
+<div align="center
   <a href="mailto:sungyeon1227@gmail.com">
     <img src="https://img.shields.io/badge/sungyeon1227@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
