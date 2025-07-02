@@ -275,6 +275,16 @@
 >
 > -  [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2024EwhaCapstone/WEFRESH-FRONT) [![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/slides/ChFqpkJpuanP06V1JkIYnu/WEFRESH-발표자료?node-id=1-59&t=KKFhhO3XrIESjQWa-0) [![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/1106ed1f61438173b38ad4280ed6dac9?pvs=4)
 
+## 17. 🫟Artichat
+>  아티스트가 되어 소통할 수 있는 실시간 채팅 서비스
+>
+> - 개발기간 : 2025.05.01 - 2025.05.30
+> - 핵심 역할 : Cloud Engineer
+> - Language : AWS Service
+> 
+>
+>
+> -  [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aws-cloud-clubs/ACC-EWHA-TALKHASAM-BE) [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aws-cloud-clubs/ACC-EWHA-TALKHASAM-FE) [![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/Artichat-21b6ed1f61438084ad53e6edd9bca331?source=copy_link)[![Tistory](https://img.shields.io/badge/Tistory-FF0000?style=for-the-badge&logo=Tistory&logoColor=white)](https://howdy1227.tistory.com/100)
 <br />
 </details>
 
