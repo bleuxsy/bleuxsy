@@ -33,7 +33,7 @@
       </ul>
 </div>-->
 <div>
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=howdy1227"/> <img src="http://mazandi.herokuapp.com/api?handle=howdy1227&theme=warm"/>
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=howdy1227"/>
 </div>
 <h3 align="center">✨ Tech Stack ✨</h3>
 
