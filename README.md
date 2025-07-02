@@ -60,10 +60,8 @@
 </div>
 </br>
 </br></br>
-<h3 align="center"></h3>
+<h3 align="center">:arrow_down:  :exclamation:CLICK :exclamation:  :arrow_down:</h3>
 <details>
-
-
 <summary align="center"><h2>📝 Projects 📝</h2></summary>
 
 
@@ -266,10 +264,10 @@
 >
 > -  [![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeit-garden/Garden-FE) [![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/JJBEDWYsWOEJ8EYjntj2EZ/Prototype?node-id=293-1428&t=HZnb9FqRrL5hISFV-1) [![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/Garden-16dc4522a6af809fa981f02e7137e101?pvs=4)
 
-## 16. 🥦WeFresh
->  냉장고 속 식재료의 신선도와 소비기한을 관리하고 AI 기반 맞춤형 레시피를 추천해주는 플랫폼 WEFRESH
+## 16. 🥦COOKiT
+>  요리 초보를 위한 맞춤 레시피 큐레이터, 내가 가진 신선한 재료로 완성하는 나만의 요리 COOKiT
 >
-> - 개발기간 : 2024.09.22 - ing
+> - 개발기간 : 2024.09.22 - 2025.06.17
 > - 핵심 역할 : Front-end, AI
 > - Language : React-native, Typescript, Python
 > 
